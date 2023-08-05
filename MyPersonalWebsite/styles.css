@@ -46,9 +46,19 @@
 }
 
 
-.fa-gem {
-    margin-right: 0.5rem;
-
+.gg-code-slash {
+    
+    margin-right: 1rem;
+    color: #f77062;
+}
+.gg-code-slash {
+    display: block;
+    position: relative;
+    box-sizing: border-box;
+    transform: rotate(15deg) scale(var(--ggs,1));
+    width: 2px;
+    height: 16px;
+    background: currentColor
 }
 
 .navbar__menu {
